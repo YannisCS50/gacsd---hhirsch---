@@ -1,0 +1,85 @@
+* Get a Computer Science Degree
+Taken from http://imgur.com/gallery/k4GVw4g
+** Introduction Introduction to Computer Science and Programming: 
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) 
+
+** Intensive Introduction to Computer Science: 
+Harvard (http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science) 
+
+** Introduction to Computer Science and Programming Methodology: 
+Stanford (http://see.stanford.edu/see/courseInfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111) 
+
+** Programming Abstractions (Second Course in Unit): 
+Stanford (http://www.youtube.com/view_play_list?p=FE6E58F856038C69) 
+
+** Mathematics for Computer Science: 
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) 
+
+** Discrete Mathematics: 
+ArsDigita (https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx) 
+
+** Core Introduction to Data Structures and Algorithms: 
+UNSW (https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1) 
+
+** Introduction to Algorithms: 
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  
+
+** Operating Systems and Systems Programming: 
+Berkeley (https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL62A66DDD3B3CC0B7) 
+
+** Programming Paradigms: 
+Stanford (https://www.youtube.com/playlist?list=PL9D558D49CA734A02) 
+
+** Computer Architecture: 
+Carnegie Mellon (https://www.youtube.com/playlist?list=PL5PHm2jkkXmgDN1PLwOY_tGtUlynnyV6D) 
+
+** Fundamentals of Computer Networking: 
+Manhattan College (https://www.youtube.com/channel/UCb1OiccPJ0wbMZMOleCvhWQ) 
+
+** Introduction to Data Communications:  
+Thammasat University (https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx) 
+
+** Introduction to Cryptography: 
+Ruhr University (https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg) 
+
+** Electives Building Dynamic Websites: H
+arvard (http://cs75.tv/2012/summer/) 
+
+** Advanced Data Structures: 
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) 
+
+** Computer System Engineering:
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/) 
+
+** Principles of Programming Languages: 
+IIT (http://freevideolectures.com/Course/2249/Principles-of-Programming-Languages/1) 
+
+** Introduction to IT Security: 
+Thammasat University (https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj) 
+
+** Security and Cryptography: 
+Thammasat University (https://www.youtube.com/playlist?list=PLvifRcqOOwF-b74gWV5TpyMFFs2dVlqTt) 
+
+** Bilinear Pairings in Cryptography: 
+BIU (https://www.youtube.com/playlist?list=PLXF_IJaFk-9C4p3b2tK7H9a9axOm3EtjA&feature=mh_lolz) 
+
+** iPhone Application Development: 
+ITU (https://www.youtube.com/playlist?list=PL1D5B07DD840FB46D) 
+
+** Android Application Development: 
+ITU (https://www.youtube.com/playlist?list=PL1E8E7D2B6EB11301) 
+
+** Artificial Intelligence: 
+HRW (https://www.youtube.com/watch?v=katiy95_mxo&list=PL39B5D3AFC249556A) 
+
+** Artificial Intelligence: 
+Berkeley (https://www.youtube.com/watch?v=qZ23-HrWyUE&index=10&list=PLF1A9D9034225FC92) 
+
+** Computer Graphics: 
+Berkeley (http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) 
+
+** Statistics and Probability: 
+Harvard (https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) 
+
+** Probabilistic Systems Analysis and Applied Probability: 
+MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
