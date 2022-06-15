@@ -86,11 +86,12 @@ Harvard (https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTI
 ** Probabilistic Systems Analysis and Applied Probability: 
 MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
 
-### Alternative form of curriculum
-##Introduction 
 
-Courses | School |
-:-- | :--: |
+
+***Alternative form of curriculum
+**Introduction 
+
+
 [Introduction to Computer Science and Programming:](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) | MIT
 Intensive Introduction to Computer Science: Harvard (http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
 Introduction to Computer Science and Programming Methodology: Stanford (http://see.stanford.edu/see/courseInfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
@@ -98,7 +99,7 @@ Programming Abstractions (Second Course in Unit): Stanford (http://www.youtube.c
 Mathematics for Computer Science: MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 Discrete Mathematics: ArsDigita (https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx)
 
-##Core
+**Core
 
 Introduction to Data Structures and Algorithms: UNSW (https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1)
 Introduction to Algorithms: MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -109,7 +110,7 @@ Fundamentals of Computer Networking: Manhattan College (https://www.youtube.com/
 Introduction to Data Communications:  Thammasat University (https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
 Introduction to Cryptography: Ruhr University (https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
 
-##Electives 
+**Electives 
 
 Building Dynamic Websites: Harvard (http://cs75.tv/2012/summer/)
 Advanced Data Structures: MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
