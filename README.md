@@ -1,6 +1,4 @@
-
-
-###Curriculum [.md format]
+###Curriculum in .md format
 
 ##Introduction 
 Courses | School |
@@ -13,7 +11,8 @@ Courses | School |
 [Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx) | ArsDigita 
 
 ##Core
-
+Courses | School |
+:-- | :--: |
 [Introduction to Data Structures and Algorithms](https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1) | UNSW
 [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT
 [Operating Systems and Systems Programming](https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL62A66DDD3B3CC0B7) | Berkeley
@@ -24,7 +23,8 @@ Courses | School |
 [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg) | Ruhr University 
 
 ##Electives 
-
+Courses | School |
+:-- | :--: |
 [Building Dynamic Websites](http://cs75.tv/2012/summer/) | Harvard
 [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) | MIT
 [Computer System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/) | MIT
