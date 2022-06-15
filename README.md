@@ -1,6 +1,6 @@
-###Curriculum in .md format
+### Curriculum in .md format
 
-##Introduction 
+## Introduction 
 Courses | School |
 :-- | :--: |
 [Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) | MIT
@@ -10,7 +10,7 @@ Courses | School |
 [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) |  MIT 
 [Discrete Mathematics](https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx) | ArsDigita 
 
-##Core
+## Core
 Courses | School |
 :-- | :--: |
 [Introduction to Data Structures and Algorithms](https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1) | UNSW
@@ -22,7 +22,7 @@ Courses | School |
 [Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx) | Thammasat University 
 [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg) | Ruhr University 
 
-##Electives 
+## Electives 
 Courses | School |
 :-- | :--: |
 [Building Dynamic Websites](http://cs75.tv/2012/summer/) | Harvard
